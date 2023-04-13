@@ -1,0 +1,2 @@
+# Optimizing-Routes-Finding-The-Shortest-Path-With-Intermediate-Nodes
+This repository contains the code for an algorithm that optimizes routes by finding the shortest path with intermediate nodes. The algorithm is based on Dijkstra's shortest path algorithm and works by finding the shortest path between a start and end node, while also considering intermediate no des that must be visited along the way. 
