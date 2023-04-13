@@ -12,7 +12,7 @@ BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
 RED = (255, 0, 0)
-BLUE = (0, 0, 255)
+BLUE = (0, 0, 255) 
 
 # Font
 font = pygame.font.SysFont(None, 24)
@@ -123,7 +123,3 @@ while True:
             pygame.draw.line(screen, RED, (start_x, start_y), (end_x, end_y), 5)
 
     pygame.display.update()
-
-# 
-# if __name__ == '__main__':
-#     app.run(debug=True)
